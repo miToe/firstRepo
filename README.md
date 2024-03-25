@@ -17,6 +17,8 @@
 ---
 ### Here is a coffee cup made from HTML and CSS
 ---
+> HTML
+
 ```html
 <html>
   <head></head>
@@ -42,6 +44,7 @@
   </body>
 </html>
 ```
+>CSS
 
 ```CSS 
 body {
@@ -182,7 +185,7 @@ body {
       }
 
 ```
-
+> JavaScript
 ```javascript
 
   console.log(nothing to show!)
