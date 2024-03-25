@@ -1,4 +1,4 @@
-# My name is Micha
+# Hi, my name is Micha
 ## I love CSS.
 
 ### My hobbies are
